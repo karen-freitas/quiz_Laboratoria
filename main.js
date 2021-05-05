@@ -78,5 +78,4 @@ botaoIniciar.onclick = function iniciar(){
         erradas.innerHTML += "<p>Pergunta 3 incorreta &#10060<br> O ganhador de Melhor tilha sonora foi <b>Soul</b><p><br>"
     }
 
-
 }
